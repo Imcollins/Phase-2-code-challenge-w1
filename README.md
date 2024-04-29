@@ -5,7 +5,7 @@
 # By Collins kipngeno
 
 # live link
-[Git](https://github.com/Imcollins/Phase-2-code-challenge-w1.git)
+[Git](https://imcollins.github.io/Phase-2-code-challenge-w1/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
