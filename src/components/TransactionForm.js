@@ -1,7 +1,7 @@
 // Import necessary modules and hooks from React
 import React, { useState } from 'react';
 
-// Define TransactionForm component
+// TransactionForm component
 const TransactionForm = ({ onAddTransaction }) => {
   // Define State variables for description, amount, date and category
   const [date, setDate] = useState(''); // Date state
