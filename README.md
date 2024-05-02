@@ -1,7 +1,14 @@
-# Getting Started with Create React App
+#The Royal Bank Of Flatiron
+
+#Date, 2024/04/29
+
+# By Collins kipngeno
+
+# live link
+[Git](https://imcollins.github.io/Phase-2-code-challenge-w1/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+ 
 ## Available Scripts
 
 In the project directory, you can run:
